@@ -3,7 +3,7 @@ const Y_AXIS = 1;
 let b1, b2, c1, c2;
 
 function setup() {
-createCanvas(windowWidth, 567) 
+createCanvas(windowWidth, 550) 
 
   // colores
   c1 = color(0, 102, 153);
